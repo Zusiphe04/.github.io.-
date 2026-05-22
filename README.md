@@ -4,13 +4,13 @@
 
 🔗 [GitHub](https://github.com/Zusiphe04) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/zusiphe-mvovo-414651358/)
 
----
+
 
 ## 📌 About Me
 
 I am a 3rd year ICT Applications Development student at Cape Peninsula University of Technology (CPUT). I am passionate about building meaningful digital solutions and developing my skills as a well-rounded software developer. This portfolio showcases my work readiness training, projects, and reflections on my learning journey.
 
----
+
 
 ## 🎓 Education
 
@@ -18,7 +18,7 @@ I am a 3rd year ICT Applications Development student at Cape Peninsula Universit
 Diploma in ICT: Applications Development  
 3rd Year | 2024 – 2026
 
----
+
 
 ## 📄 Curriculum Vitae
 
@@ -45,7 +45,7 @@ Diploma in ICT: Applications Development
 - Contributed to user interface design and functionality improvements.
 - Supported digital solutions for ocean conservation initiatives.
 
----
+
 
 #### Access Guard — Accessible Campus Navigation App
 *March – November 2025*
@@ -55,7 +55,7 @@ Diploma in ICT: Applications Development
 - Participated in implementing a live campus map, custom routing, and obstacle reporting features.
 - Integrated Google Maps API and React.js for navigation and admin dashboard.
 
----
+
 
 ### 🛠️ Skills
 
@@ -69,7 +69,6 @@ Diploma in ICT: Applications Development
 | Flutter | |
 | React.js | |
 
----
 
 ### 📌 Reference
 
